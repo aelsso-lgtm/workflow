@@ -1,0 +1,9 @@
+{
+  "name": "toolkit",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "validate:docs": "node scripts/validate-docs.mjs",
+    "validate:next": "node scripts/validate-next.mjs"
+  }
+}
